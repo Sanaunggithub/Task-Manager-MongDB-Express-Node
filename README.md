@@ -1,11 +1,11 @@
-# 📝 Task Manager API (MEN Stack)
+# Task Manager API (MEN Stack)
 
 A simple **Task Manager** built with the **MEN stack** (MongoDB, Express.js, Node.js).  
 This RESTful API allows users to create, read, update, and delete tasks.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Create new tasks
 - Retrieve all tasks or a single task by ID
@@ -16,7 +16,7 @@ This RESTful API allows users to create, read, update, and delete tasks.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **MongoDB** – NoSQL database for storing tasks
 - **Express.js** – Web framework for routing and middleware
